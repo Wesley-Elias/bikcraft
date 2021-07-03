@@ -1,6 +1,6 @@
 <!-- ==> ==> ==> ==> Logo/Imagem <== <== <== <== -->
 <div align="center" >
-  <img src="https://res.cloudinary.com/wesleyelias/image/upload/v1625343862/bikcraft/bikcraft-qualidade_joiy43.svg" width="50%"/>
+  <img src="https://res.cloudinary.com/wesleyelias/image/upload/v1625343862/bikcraft/bikcraft-qualidade_joiy43.svg" width="640px"/>
 </div>
 
 <!-- ==> ==> ==> ==> Badges <== <== <== <== -->
@@ -25,7 +25,7 @@
 
 <!-- ==> ==> ==> ==> Demostração da Aplicação <== <== <== <== -->
 <h1 align="center">
-  <img width="640px" alt="Bikcraft" src="https://res.cloudinary.com/wesleyelias/image/upload/v1625346012/bikcraft/hero_bikcraft_xnicjk.gif">
+  <img width="640px" height="360px" alt="Bikcraft" src="https://res.cloudinary.com/wesleyelias/image/upload/v1625348838/bikcraft/hero_2_zcx16l.gif">
 </h1>
 
 <!-- ==> ==> ==> ==> Título <== <== <== <== -->
@@ -76,7 +76,7 @@
 </br>
 
 <div align="center" >
-  <img src="https://res.cloudinary.com/wesleyelias/image/upload/v1625346568/bikcraft/produtos_ycsvwr.gif" width="640px" height="360px"/>
+  <img src="https://res.cloudinary.com/wesleyelias/image/upload/v1625349175/bikcraft/produtos_g3o1r5.gif" width="640px" height="360px"/>
 </div>
 
 </br>
